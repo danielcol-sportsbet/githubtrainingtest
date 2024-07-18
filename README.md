@@ -1,4 +1,4 @@
-this is an update to trigger gh actions workflow
+this is an update to not trigger gh actions workflow
 
 # GitHub Actions Fundamentals
 
