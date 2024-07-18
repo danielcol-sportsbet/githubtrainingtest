@@ -1,3 +1,5 @@
+this is an update to trigger gh actions workflow
+
 # GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training.
